@@ -1,0 +1,8 @@
+num_1 = int(input('input number 1: '))
+num_2 = int(input('input number 2: '))
+print('Summa:')
+print(num_1+num_2)
+print('Raznica:')
+print(num_1-num_2)
+print('Dodatok:')
+print(num_1*num_2)

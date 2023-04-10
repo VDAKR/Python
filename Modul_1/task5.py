@@ -1,4 +1,3 @@
-
 number = int(input('input number: ')) 
 a = number // 100
 b = number /10  %10
